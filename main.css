@@ -204,7 +204,7 @@ article a{font-weight:600}
 
 /* footer */
 footer{background:var(--ink);color:#C9D6DE;padding:54px 0 38px;font-size:15px}
-footer .wrap{display:grid;grid-template-columns:1.6fr 1fr 1fr 1.2fr;gap:32px}
+footer .wrap{display:grid;grid-template-columns:1.5fr 1fr 1.15fr 1fr 1fr;gap:28px}
 footer h2{color:#fff;font-size:16px;margin-bottom:12px}
 footer a{color:#DCE5EA;text-decoration:none;display:block;margin-bottom:7px}
 footer a:hover{color:#fff;text-decoration:underline}
@@ -283,3 +283,5 @@ footer p,footer a,footer address,footer li,.footbar{overflow-wrap:anywhere}
 .figure{margin:26px 0}
 .figure img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:var(--radius);background:var(--mist)}
 .figure figcaption{font-size:14px;color:var(--muted);margin-top:8px}
+
+.findsec .areas{margin-top:14px}
